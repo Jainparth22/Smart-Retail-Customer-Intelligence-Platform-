@@ -94,7 +94,7 @@ docker run -d -p 8000:8000 -p 8501:8501 --name smart_retail smart-retail-platfor
 
 ## 📄 Documentation & Final Report
 The official academic project report is organized within the `docs/` folder in both PDF and DOCX formats:
-- **`docs/Parth_Jain_IN26012832_AIML_Program_Internship_AI3_Batch_6B.pdf`**
-- **`docs/Parth_Jain_IN26012832_AIML_Program_Internship_AI3_Batch_6B.docx`**
+- **`docs/Parth_Jain_IN26012143_AIML_Program_Internship_AI3_Batch_5A.pdf`**
+- **`docs/Parth_Jain_IN26012143_AIML_Program_Internship_AI3_Batch_5A.docx`**
 
 These documents detail the complete design, implementation, and quality assurance evaluation of the AI-Powered Smart Retail & Customer Intelligence Platform for MPOnline.
